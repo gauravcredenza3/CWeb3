@@ -71,7 +71,7 @@
 		4BC29B1E862FC7EC18CDE5FA /* Pods-Web3_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Web3_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Web3_Tests/Pods-Web3_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* Web3_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Web3_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		746C365C55131A708ACBAB71 /* Web3.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Web3.podspec; path = ../Web3.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		746C365C55131A708ACBAB71 /* CWeb3.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CWeb3.podspec; path = ../CWeb3.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DA16060729F56349F6C9ADD3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E807E53C20F5247A009CC575 /* Fallback.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Fallback.json; sourceTree = "<group>"; };
 		E85B781620D1ED3E0069E3B4 /* JSONContractTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSONContractTests.swift; sourceTree = "<group>"; };
@@ -207,7 +207,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				746C365C55131A708ACBAB71 /* Web3.podspec */,
+				746C365C55131A708ACBAB71 /* CWeb3.podspec */,
 				DA16060729F56349F6C9ADD3 /* README.md */,
 				2823EF66D329567217458073 /* LICENSE */,
 			);

@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
     s.homepage         = 'https://github.com/gauravcredenza3/CWeb3.git'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'CWeb3' => 'gaurav03goyal@gmail.com' }
-    s.source           = { :git => 'https://github.com/gauravcredenza3/CWeb3.git', :branch => 'master' }
+    s.source           = { :git => 'https://github.com/gauravcredenza3/CWeb3.git', :branch => 'main' }
     
     s.ios.deployment_target = '13.0'
     
