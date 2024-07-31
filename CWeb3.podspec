@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-    s.name             = 'Web3'
-    s.version          = '0.4.2'
+    s.name             = 'CWeb3'
+    s.version          = '1.0.0'
     s.summary          = 'Web3 library for Swift. Sign transactions and interact with Smart Contracts in the Ethereum Network.'
     
     s.description      = <<-DESC
@@ -10,12 +10,10 @@ Pod::Spec.new do |s|
     (for example IPC,...).
     DESC
     
-    s.homepage         = 'https://github.com/Boilertalk/Web3.swift'
-    # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+    s.homepage         = 'https://github.com/gauravcredenza3/CWeb3.git'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
-    s.author           = { 'Credenza' => 'gaurav@credenza3.com' }
+    s.author           = { 'CWeb3' => 'gaurav03goyal@gmail.com' }
     s.source           = { :git => 'https://github.com/gauravcredenza3/CWeb3.git', :branch => 'master' }
-    # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
     
     s.ios.deployment_target = '13.0'
     
